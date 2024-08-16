@@ -1,0 +1,25 @@
+h1 {
+    color: gold;
+}
+
+ul {
+    color: blue;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: rgb(231, 0, 0);
+}
+
+footer {
+    color: darkgoldenrod;
+}
+
+.firstcard {
+    color: red;
+}
+
+.secondcard {
+    color: blue;
+}

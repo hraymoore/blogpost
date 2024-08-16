@@ -1,0 +1,16 @@
+.socialsectiom {
+    display: block;
+}
+
+.authorssection {
+    display: grid;
+    padding: 2%;
+}
+
+img {
+    width: 80%;
+}
+
+.avatar {
+    width: 80%;
+}

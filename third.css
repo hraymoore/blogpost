@@ -1,0 +1,17 @@
+.thirdcard {
+    color: darkgoldenrod;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: grid;
+    padding: 2%;
+}
+
+.socialsharing {
+    display: grid;
+    padding-top: 20%;
+}
